@@ -2,7 +2,7 @@
 JavaScript
 
   1. Модифицируйте готовую функцию createPostCard() из задания 
-    номер 4 (https://codepen.io/goit-fe-adv/pen/MVPaeZ) так, 
+    номер 4 (https://codepen.io/stasbereza/pen/RJpgMQ?editors=1010) так, 
     чтобы она принимала объект post с данными для заполнения полей 
     в карточке.
       
